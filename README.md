@@ -15,7 +15,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=business analysis,data analysis,SQL,Python,Excel&perline=5)](https://skillicons.dev)
+<FontAwesomeIcon icon="fa-brands fa-github" />
 
 ![Gourav Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gks1710&show_icons=true&theme=dark)
 
